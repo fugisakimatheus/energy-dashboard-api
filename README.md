@@ -1,7 +1,7 @@
 # ⚡ Energy Dashboard - API
 
 ### Link do server em produção:
-### https://energy-dashboard-two.vercel.app/
+### https://energy-dashboard-api.vercel.app
 
 ## 📚 Referências
 1. https://github.com/fugisakimatheus/energy-dashboard
